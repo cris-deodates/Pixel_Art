@@ -7,3 +7,4 @@ Repository for pixel art
 <br /> Commit 6 : 03-01-2022
 <br /> Commit 7 : 03-01-2022
 <br /> Commit 8 : 04-01-2022
+<br /> Commit 9 : 04-01-2022
