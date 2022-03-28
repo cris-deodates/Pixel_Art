@@ -94,3 +94,4 @@ Repository for pixel art
 <br /> Commit 93 : 24-03-2022
 <br /> Commit 94 : 24-03-2022
 <br /> Commit 95 : 30-03-2022
+<br /> Commit 96 : 30-03-2022
