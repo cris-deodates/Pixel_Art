@@ -124,3 +124,4 @@ Repository for pixel art
 <br /> Commit 123 : 27-04-2022
 <br /> Commit 124 : 27-04-2022
 <br /> Commit 125 : 28-04-2022
+<br /> Commit 126 : 28-04-2022
